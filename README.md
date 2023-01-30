@@ -1,3 +1,5 @@
+# a simple app to make quizes for students 
+
 # app running
 
 to run the front end side app : npm start
